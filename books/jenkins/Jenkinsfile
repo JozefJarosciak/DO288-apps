@@ -10,8 +10,8 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "joe-doproces-com-books-dev"
-        STAGE_PROJECT = "joe-doproces-com-books-stage"
+        DEV_PROJECT = "joe-doprocess-com-books-dev"
+        STAGE_PROJECT = "joe-doprocess-com-books-stage"
         APP_GIT_URL = "https://github.com/JozefJarosciak/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ocp-na2.prod.nextcle.com/repository/nodejs"
 
